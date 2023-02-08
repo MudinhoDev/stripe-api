@@ -1,3 +1,3 @@
 export default {
-  secretKey: 'Yor Stripe API Key',
+  secretKey: 'Your Stripe API Key',
 };
